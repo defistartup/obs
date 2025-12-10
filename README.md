@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @defistartup
-- 👀 I’m interested in learning about new DEFI projects that have high-impact on the Crypto market.
-- 🌱 I’m currently learning how to be a Crypto Master in the crypto market.
-- 💞️ I’m looking to collaborate on ways to increase market exposure of new DEFI projects.
-- 📫 How to reach me at https://twitter.com/defistartupclub
+- 👋 Hi, I’m @obs
+- 👀 I’m interested in learning about high-ticket projects that have high-impact on the Make Money Online market.
+- 💞️ I’m looking to collaborate on ways to increase market exposure of new MMO projects.
+- 📫 How to reach me at remy@onlinebusinesstartup.com
 
 <!---
 defistartup/defistartup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
